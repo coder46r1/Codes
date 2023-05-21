@@ -1,4 +1,4 @@
-Write a program to implement Parallel Bubble Sort. Use existing algorithms
+/*Write a program to implement Parallel Bubble Sort. Use existing algorithms
 and measure the performance of sequential and parallel algorithms.
 */
 #include<iostream>
